@@ -1,21 +1,22 @@
 # Hands-On Machine Learning — Study Repository
 
-Repository personale per studiare e praticare il libro:
+This repository is used to study and practice the book:
 
-**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow**
-
----
-
-## Obiettivo
-
-- imparare Machine Learning in modo pratico
-- costruire progetti reali
-- mantenere codice organizzato
-- creare un portfolio su GitHub
+**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (3rd Edition)**  
+by Aurélien Géron
 
 ---
 
-## Struttura del progetto
+##  Objective
+
+- learn Machine Learning through hands-on practice
+- build real projects
+- keep code clean and well organized
+- create a solid GitHub portfolio
+
+---
+
+##  Project Structure
 
 ```text
 hands-on-ml/
@@ -24,7 +25,7 @@ hands-on-ml/
 │   └── SETUP_GIT_WORKFLOW.md
 │
 ├── notebooks/
-│   ├── 00_preliminari/
+│   ├── 00_setup/
 │   ├── chapter_01/
 │   ├── chapter_02/
 │   └── ...
