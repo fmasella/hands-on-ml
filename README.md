@@ -35,7 +35,7 @@ Each chapter includes:
 
 ---
 
-##  Project Structure
+## Project Structure
 
 ```text
 hands-on-ml/
@@ -51,6 +51,7 @@ hands-on-ml/
 ├── README.md
 └── .gitignore
 
+```
 ##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
